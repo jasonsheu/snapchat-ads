@@ -1,5 +1,5 @@
 # Summary of Findings
-
+By: Jason Sheu and Ronaldo Romano
 ### Introduction
 The questions me and my partner are investigating are: what are the most prevalent organizations, advertisers, and ballot candidates in the data, and how does the spend differ within single gendered ads versus both gender ads?
 
